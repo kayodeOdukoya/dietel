@@ -471,6 +471,7 @@ import random  #LENGTH OF NAMES
 #     print(when, end=" ")
 #     number += 1
 
+
 # number = 1
 # while True:
 #     number = number * 6
@@ -607,21 +608,78 @@ import random  #LENGTH OF NAMES
 #     print("Value (monthly in $) is:", future_years)
 #     count += 1
 
-user_input = float(input("Enter invested amount: "))
-year = 0
-invested_amount = 10/100
-for count in range(1, 31):
-    profit = user_input
-    profit *= invested_amount
-    user_input += profit
-    print(f"your Roi is {profit:.2f}, Your investment is now ${user_input:.2f} in year {count}")
+# user_input = float(input("Enter invested amount: "))
+# year = 0
+# invested_amount = 10/100
+# for count in range(1, 31):
+#     profit = user_input
+#     profit *= invested_amount
+#     user_input += profit
+#     print(f"your Roi is {profit:.2f}, Your investment is now ${user_input:.2f} in year {count}")
+
+                                #Even numbers between 1 to 50
+
+
+# for number in range(1, 51):
+#
+#     if number % 2 == 0:
+#         print(number, end=" ")
+#
+                                #OR
+
+# for c in range(0, 51, 2):
+#     print(c, end=" ")
+                        #To calculate the average
+# count = 0
+# total = 0
+# for c in range(0, 51, 2):
+#     count +=1
+#     total+= c
+#     print (f"{total/count}")
+
+                            #OR
+# even_numbers = []
+# for c in range(0, 51, 2):
+#     if c == 20:
+#         break
+#     even_numbers.append(c)
+# print(even_numbers)
+# average = sum(even_numbers) / len(even_numbers)
+#
+# print(average)
 
 
 
+# print("Number\tSquare\tCube")
+# for number in range(1, 11):
+#     square = number * number
+#     cube = number * number * number
+#     print(f"{number}\t\t{square}\t\t{cube}")
 
+# for i in range(1, 13):
+#     for j in range(2, 21):
+#         print(f"{i:>2} * {j:>2} = {i * j:>2}", end="\t\t")
+#     print()
 
+#                         MIDIAN
+# number = 10, 20, 15, 25, 5, 30, 35, 20, 10, 20
+# for number1 in range (10, 20, 15, 25, 5, 30, 35, 20, 10, 20):
+#     for number2 in range(10, 20, 15, 25, 5, 30, 35, 20, 10, 20):
+#         #for number3 in range(10, 20, 15, 25, 5, 30, 35, 20, 10, 20):
+#         if(number1 >= number2):
+#             locate (median)
+#
+#
+# num1 = 20
+# num2 = 20
+# sum = num1 + num2
+# div = sum / 2
+# print(div)
 
-
+# number = 0
+# while(number <= 0, 20, 15, 25, 5, 30, 35, 20, 10, 20):
+#     while(number <= (10, 20, 15, 25, 5, 30, 35, 20, 10, 20):
+#     number += 1
 
 
 
