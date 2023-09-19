@@ -497,7 +497,7 @@ import random  #LENGTH OF NAMES
 
 #Using for loop
                                      #TASK
-# Write a program that prints all the numbrs between 0 to 6, except 3 and 6
+#Write a program that prints all the numbrs between 0 to 6, except 3 and 6
 
 # for count in range (7):
 #       if count != 3 and count != 6:
@@ -569,17 +569,52 @@ import random  #LENGTH OF NAMES
  # Number of even numbers: 5
  # Number of odd numbers: 4
 
-numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+# numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+#
+# even = 0
+# odd = 0
+# for number in numbers:
+#     if number % 2 == 0:
+#      even += 1
+# else:
+#     odd+= 5
+# print(f"Number of even numbers:",even, " \n", f"Number of odd numbers:", odd)
 
-even = 0
-odd = 0
-for number in numbers:
-    if number % 2 == 0:
-     even += 1
-else:
-    odd+= 5
-print(f"Number of even numbers:",even, " \n", f"Number of odd numbers:", odd)
 
+
+
+
+                                                                    #19/9/2023
+                                                                    #TASK
+               # MULTIPLICATION TABLE 1X1 TO 20X1
+
+# for i in range(1, 13):
+#     for j in range(2, 21):
+#         print(f"{i:>2} * {j:>2} = {i * j:>2}", end="\t\t")
+#     print()
+
+
+# investment_initial = int(input("Enter investment amount: "))
+# annual_interest = float(input("Enter annual investment amount: "))
+# years = int(input("Enter number of years: "))
+#
+# for count in range (1, 31):
+#     monthly_interest = annual_interest/12
+#     months = years/12
+#     future_years = investment_initial *(1 + annual_interest) **years
+#     future_months = investment_initial * (1 + monthly_interest) **months
+#     print("Value (monthly in $) is:", future_months)
+#     print("Value (monthly in $) is:", future_years)
+#     count += 1
+
+user_input = float(input("Enter invested amount: "))
+year = 0
+invested_amount = 10/100
+for count in range(1, 31):
+    profit = user_input
+    profit *= invested_amount
+    user_input += profit
+    print(f"your Roi is {profit:.2f}, Your investment is now ${user_input:.2f} in year {count}")
 
 
 
