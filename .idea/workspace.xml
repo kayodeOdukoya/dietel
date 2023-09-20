@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc27ab6c-3895-4820-a80d-15c6498d84f4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cc27ab6c-3895-4820-a80d-15c6498d84f4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +45,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Dell/PycharmProjects/muyiwa_project/venv",
+    "last_opened_file_path": "C:/Users/Dell/PycharmProjects/muyiwa_project/venv/Scripts",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -58,6 +56,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\PycharmProjects\muyiwa_project\venv\Scripts" />
+      <recent name="C:\Users\Dell\PycharmProjects\muyiwa_project\venv" />
       <recent name="C:\Users\Dell\PycharmProjects\muyiwa_project" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -67,7 +67,7 @@
       <recent name="C:\Users\Dell\PycharmProjects\muyiwa_project\.idea\chapter2_exercises" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.muyiwa">
+  <component name="RunManager" selected="Python.average_with_stopper">
     <configuration name="Number_Square_Cube" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="muyiwa_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,6 +82,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Number_Square_Cube.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="average_with_stopper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="muyiwa_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Dell\PycharmProjects\muyiwa_project\venv\average_with_stopper.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,6 +224,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.average_with_stopper" />
         <item itemvalue="Python.muyiwa" />
         <item itemvalue="Python.Number_Square_Cube" />
         <item itemvalue="Python.introducingbreak" />
@@ -239,7 +262,7 @@
       <workItem from="1695074084276" duration="3026000" />
       <workItem from="1695086152085" duration="4205000" />
       <workItem from="1695109275400" duration="27135000" />
-      <workItem from="1695195576781" duration="599000" />
+      <workItem from="1695195576781" duration="1041000" />
     </task>
     <servers />
   </component>
@@ -249,6 +272,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/muyiwa_project$exercise3.coverage" NAME="exercise3 Coverage Results" MODIFIED="1694108776082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/muyiwa_project$EvenNumbers.coverage" NAME="EvenNumbers Coverage Results" MODIFIED="1695132396745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea" />
+    <SUITE FILE_PATH="coverage/muyiwa_project$average_calculation.coverage" NAME="average_calculation Coverage Results" MODIFIED="1695196584937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
     <SUITE FILE_PATH="coverage/muyiwa_project$exercise3_1.coverage" NAME="exercise3.1 Coverage Results" MODIFIED="1695093672226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/muyiwa_project$invested_amount_for_30years.coverage" NAME="invested_amount_for_30years Coverage Results" MODIFIED="1695123988911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
     <SUITE FILE_PATH="coverage/muyiwa_project$whileLoopReahase.coverage" NAME="whileLoopReahase Coverage Results" MODIFIED="1694745011453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
