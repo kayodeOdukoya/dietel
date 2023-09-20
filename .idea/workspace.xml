@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc27ab6c-3895-4820-a80d-15c6498d84f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/chapter2_exercises/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/chapter3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Number_Square_Cube.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/chapter2_exercises/exercise2.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise2.10.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/chapter2_exercises/exercise2.10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise2.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/chapter2_exercises/exercise2.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise2.33.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/chapter2_exercises/exercise2.33.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise2.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/chapter2_exercises/exercise2.4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise2.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/chapter2_exercises/exercise2.5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise2.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/chapter2_exercises/exercise2.6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise2.7.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/chapter2_exercises/exercise2.7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise2.8.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/chapter2_exercises/exercise2.8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise3.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/chapter3/exercise3.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise3.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/chapter3/exercise3.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise3.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/chapter3/exercise3.3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/muyiwa.py" beforeDir="false" afterPath="$PROJECT_DIR$/muyiwa.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +47,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Dell/PycharmProjects/muyiwa_project",
+    "last_opened_file_path": "C:/Users/Dell/PycharmProjects/muyiwa_project/venv",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -221,7 +204,6 @@
       <list>
         <item itemvalue="Python.muyiwa" />
         <item itemvalue="Python.Number_Square_Cube" />
-        <item itemvalue="Python.evenNumbers (1)" />
         <item itemvalue="Python.introducingbreak" />
         <item itemvalue="Python.evenNumbers" />
       </list>
@@ -256,7 +238,8 @@
       <workItem from="1694984358739" duration="1526000" />
       <workItem from="1695074084276" duration="3026000" />
       <workItem from="1695086152085" duration="4205000" />
-      <workItem from="1695109275400" duration="25904000" />
+      <workItem from="1695109275400" duration="27135000" />
+      <workItem from="1695195576781" duration="599000" />
     </task>
     <servers />
   </component>
