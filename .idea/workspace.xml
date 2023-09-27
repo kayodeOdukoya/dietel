@@ -5,12 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc27ab6c-3895-4820-a80d-15c6498d84f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter3_exercise/approximating_the_math_constant_e.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter3_exercise/miles_per_gallon.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter3_exercise/palindromes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_task/factorials.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter3_exercise/exercise317.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_task/divide_or_square_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_task/function_trials.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_task/general_revision.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_task/largest_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_task/multiple_arguments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_task/shapes_trial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/things_to_note/Number_Square_Cube.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/things_to_note/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/things_to_note/average_with_stopper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/things_to_note/multiple_arguments.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class_task/pallindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_task/pallindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3_exercise/miles_per_gallon.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3_exercise/miles_per_gallon.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_task/muyiwa.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_task/muyiwa.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,11 +39,17 @@
     <setting file="file://$PROJECT_DIR$/chapter3_exercise/exercise3.10.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/chapter3_exercise/exercise3.3.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/chapter3_exercise/exercise3.8.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/chapter3_exercise/exercise317.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/chapter3_exercise/miles_per_gallon.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/chapter3_exercise/palindromes.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/class_task/divide_or_square_function.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/class_task/fizz_buzz.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/class_task/general_revision.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/class_task/multiple_arguments.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/class_task/muyiwa.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/class_task/pallindrome.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/class_task/range_midian.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/class_task/shapes_trial.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/loop/WhileLoop.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/../../../PycharmProjects/muyiwa_project/ditto@home.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/../../../PycharmProjects/muyiwa_project1/muyiwa.py" root0="SKIP_INSPECTION" />
@@ -54,7 +68,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dell/PycharmProjects/muyiwa_project/venv/class_task&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dell/PycharmProjects/muyiwa_project/things_to_note&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -65,10 +79,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\PycharmProjects\muyiwa_project\things_to_note" />
+      <recent name="C:\Users\Dell\PycharmProjects\muyiwa_project\chapter3_exercise" />
       <recent name="C:\Users\Dell\PycharmProjects\muyiwa_project\venv\class_task" />
       <recent name="C:\Users\Dell\PycharmProjects\muyiwa_project\venv\Scripts" />
       <recent name="C:\Users\Dell\PycharmProjects\muyiwa_project\venv" />
-      <recent name="C:\Users\Dell\PycharmProjects\muyiwa_project" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Dell\PycharmProjects\muyiwa_project" />
@@ -78,8 +93,8 @@
       <recent name="C:\Users\Dell\PycharmProjects\muyiwa_project\venv\loop" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.miles_per_gallon">
-    <configuration name="evenNumbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.divide_or_square_function">
+    <configuration name="divide_or_square_function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="muyiwa_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,7 +107,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_task/evenNumbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_task/divide_or_square_function.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="keep_guessing_a_number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="general_revision" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="muyiwa_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,7 +151,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_task/keep_guessing_a_number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_task/general_revision.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,7 +204,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="palindromes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="muyiwa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="muyiwa_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -197,12 +212,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter3_exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_task" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter3_exercise/palindromes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_task/muyiwa.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -213,11 +228,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.miles_per_gallon" />
-        <item itemvalue="Python.keep_guessing_a_number" />
+        <item itemvalue="Python.divide_or_square_function" />
         <item itemvalue="Python.factorials" />
-        <item itemvalue="Python.evenNumbers" />
-        <item itemvalue="Python.palindromes" />
+        <item itemvalue="Python.general_revision" />
+        <item itemvalue="Python.muyiwa" />
+        <item itemvalue="Python.miles_per_gallon" />
       </list>
     </recent_temporary>
   </component>
@@ -266,6 +281,11 @@
       <workItem from="1695463464363" duration="4471000" />
       <workItem from="1695485325006" duration="4094000" />
       <workItem from="1695570898241" duration="1702000" />
+      <workItem from="1695596596206" duration="1149000" />
+      <workItem from="1695636870543" duration="11102000" />
+      <workItem from="1695693203262" duration="5379000" />
+      <workItem from="1695711014863" duration="793000" />
+      <workItem from="1695713637415" duration="3056000" />
     </task>
     <servers />
   </component>
@@ -273,49 +293,59 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/muyiwa_project$display_of_characters.coverage" NAME="display_of_characters Coverage Results" MODIFIED="1695463572765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_task" />
-    <SUITE FILE_PATH="coverage/muyiwa_project$factorials.coverage" NAME="factorials Coverage Results" MODIFIED="1695571745152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_task" />
+    <SUITE FILE_PATH="coverage/muyiwa_project$display_of_characters.coverage" NAME="display_of_characters Coverage Results" MODIFIED="1695646919406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_task" />
     <SUITE FILE_PATH="coverage/muyiwa_project$exercise3.coverage" NAME="exercise3 Coverage Results" MODIFIED="1694108776082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/muyiwa_project$EvenNumbers.coverage" NAME="EvenNumbers Coverage Results" MODIFIED="1695132396745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea" />
     <SUITE FILE_PATH="coverage/muyiwa_project$average_calculation.coverage" NAME="average_calculation Coverage Results" MODIFIED="1695196584937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
     <SUITE FILE_PATH="coverage/muyiwa_project$exercise3_4.coverage" NAME="exercise3.4 Coverage Results" MODIFIED="1695381634981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/chapter3_exercise" />
     <SUITE FILE_PATH="coverage/muyiwa_project$exercise3_1.coverage" NAME="exercise3.1 Coverage Results" MODIFIED="1695093672226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/muyiwa_project$invested_amount_for_30years.coverage" NAME="invested_amount_for_30years Coverage Results" MODIFIED="1695123988911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
-    <SUITE FILE_PATH="coverage/muyiwa_project$whileLoopReahase.coverage" NAME="whileLoopReahase Coverage Results" MODIFIED="1694745011453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/muyiwa_project$classAverageResult.coverage" NAME="classAverageResult Coverage Results" MODIFIED="1695092910084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/muyiwa_project$exercise3_10.coverage" NAME="exercise3.10 Coverage Results" MODIFIED="1695485374786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3_exercise" />
+    <SUITE FILE_PATH="coverage/muyiwa_project$ditto_home.coverage" NAME="ditto@home Coverage Results" MODIFIED="1694896285343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../PycharmProjects/muyiwa_project" />
+    <SUITE FILE_PATH="coverage/muyiwa_project$keep_guessing_a_number.coverage" NAME="keep_guessing_a_number Coverage Results" MODIFIED="1695571946233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_task" />
+    <SUITE FILE_PATH="coverage/muyiwa_project$multiple_arguments__1_.coverage" NAME="multiple_arguments (1) Coverage Results" MODIFIED="1695653861787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/things_to_note" />
+    <SUITE FILE_PATH="coverage/muyiwa_project$exercise3_7.coverage" NAME="exercise3.7 Coverage Results" MODIFIED="1695214910271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/chapter3_exercise" />
+    <SUITE FILE_PATH="coverage/muyiwa_project$divide_or_square_function.coverage" NAME="divide_or_square_function Coverage Results" MODIFIED="1695716060199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_task" />
+    <SUITE FILE_PATH="coverage/muyiwa_project$asterick_app.coverage" NAME="asterick_app Coverage Results" MODIFIED="1695646709542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_task" />
+    <SUITE FILE_PATH="coverage/muyiwa_project$asterick__1_.coverage" NAME="asterick (1) Coverage Results" MODIFIED="1695646765081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_task" />
+    <SUITE FILE_PATH="coverage/muyiwa_project$playGround.coverage" NAME="playGround Coverage Results" MODIFIED="1694984449884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/muyiwa_project$weekend_flakess.coverage" NAME="weekend_flakess Coverage Results" MODIFIED="1695637538090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_task" />
+    <SUITE FILE_PATH="coverage/muyiwa_project$palindromes.coverage" NAME="palindromes Coverage Results" MODIFIED="1695488711841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3_exercise" />
+    <SUITE FILE_PATH="coverage/muyiwa_project$range_midian.coverage" NAME="range_midian Coverage Results" MODIFIED="1695646931333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_task" />
+    <SUITE FILE_PATH="coverage/muyiwa_project$exercise3_8.coverage" NAME="exercise3.8 Coverage Results" MODIFIED="1695403499734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3_exercise" />
+    <SUITE FILE_PATH="coverage/muyiwa_project$exercise4.coverage" NAME="exercise4 Coverage Results" MODIFIED="1694093195359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/muyiwa_project$user_input_for_arguments.coverage" NAME="user_input_for_arguments Coverage Results" MODIFIED="1695655846009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_task" />
+    <SUITE FILE_PATH="coverage/muyiwa_project$function_trials.coverage" NAME="function_trials Coverage Results" MODIFIED="1695638055674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_task" />
+    <SUITE FILE_PATH="coverage/muyiwa_project$shapes_trial.coverage" NAME="shapes_trial Coverage Results" MODIFIED="1695655416943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_task" />
+    <SUITE FILE_PATH="coverage/muyiwa_project$exercise3_3.coverage" NAME="exercise3.3 Coverage Results" MODIFIED="1695287659828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/chapter3_exercise" />
+    <SUITE FILE_PATH="coverage/muyiwa_project$factorials.coverage" NAME="factorials Coverage Results" MODIFIED="1695713666971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_task" />
+    <SUITE FILE_PATH="coverage/muyiwa_project$whileLoopReahase.coverage" NAME="whileLoopReahase Coverage Results" MODIFIED="1694745011453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/muyiwa_project$introducingbreak.coverage" NAME="introducingbreak Coverage Results" MODIFIED="1695132488313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea" />
     <SUITE FILE_PATH="coverage/muyiwa_project$pallindrome.coverage" NAME="pallindrome Coverage Results" MODIFIED="1695488264631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_task" />
-    <SUITE FILE_PATH="coverage/muyiwa_project$exercise3_10.coverage" NAME="exercise3.10 Coverage Results" MODIFIED="1695485374786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3_exercise" />
     <SUITE FILE_PATH="coverage/muyiwa_project$WhileLoop.coverage" NAME="WhileLoop Coverage Results" MODIFIED="1694854041702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/muyiwa_project$exercise8.coverage" NAME="exercise8 Coverage Results" MODIFIED="1694109220385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/muyiwa_project$exercise3_2.coverage" NAME="exercise3.2 Coverage Results" MODIFIED="1695109557223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/muyiwa_project$exercise10.coverage" NAME="exercise10 Coverage Results" MODIFIED="1694118771550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/muyiwa_project$cornflakes.coverage" NAME="cornflakes Coverage Results" MODIFIED="1694161788322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/muyiwa_project$exercise2.coverage" NAME="exercise2 Coverage Results" MODIFIED="1694108649052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/muyiwa_project$ditto_home.coverage" NAME="ditto@home Coverage Results" MODIFIED="1694896285343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../PycharmProjects/muyiwa_project" />
     <SUITE FILE_PATH="coverage/muyiwa_project$exercise5.coverage" NAME="exercise5 Coverage Results" MODIFIED="1694093355773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/muyiwa_project$keep_guessing_a_number.coverage" NAME="keep_guessing_a_number Coverage Results" MODIFIED="1695571946233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_task" />
     <SUITE FILE_PATH="coverage/muyiwa_project$Number_Square_Cube.coverage" NAME="Number_Square_Cube Coverage Results" MODIFIED="1695134256286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/muyiwa_project$exercise3_7.coverage" NAME="exercise3.7 Coverage Results" MODIFIED="1695214910271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/chapter3_exercise" />
     <SUITE FILE_PATH="coverage/muyiwa_project$approximating_the_math_constant_e.coverage" NAME="approximating_the_math_constant_e Coverage Results" MODIFIED="1695487165231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3_exercise" />
-    <SUITE FILE_PATH="coverage/muyiwa_project$muyiwa.coverage" NAME="muyiwa Coverage Results" MODIFIED="1695386053441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../PycharmProjects/muyiwa_project1" />
+    <SUITE FILE_PATH="coverage/muyiwa_project$exercise317.coverage" NAME="exercise317 Coverage Results" MODIFIED="1695655694490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3_exercise" />
     <SUITE FILE_PATH="coverage/muyiwa_project$exercise3_6.coverage" NAME="exercise3.6 Coverage Results" MODIFIED="1695400162706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3_exercise" />
+    <SUITE FILE_PATH="coverage/muyiwa_project$muyiwa.coverage" NAME="muyiwa Coverage Results" MODIFIED="1695694668455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_task" />
     <SUITE FILE_PATH="coverage/muyiwa_project$ForLoop.coverage" NAME="ForLoop Coverage Results" MODIFIED="1694687951985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/muyiwa_project$playGround.coverage" NAME="playGround Coverage Results" MODIFIED="1694984449884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/muyiwa_project$fibonacci_series.coverage" NAME="fibonacci_series Coverage Results" MODIFIED="1695309274325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/class_task" />
-    <SUITE FILE_PATH="coverage/muyiwa_project$weekend_flakess.coverage" NAME="weekend_flakess Coverage Results" MODIFIED="1695465000162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_task" />
-    <SUITE FILE_PATH="coverage/muyiwa_project$palindromes.coverage" NAME="palindromes Coverage Results" MODIFIED="1695488711841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3_exercise" />
-    <SUITE FILE_PATH="coverage/muyiwa_project$miles_per_gallon.coverage" NAME="miles_per_gallon Coverage Results" MODIFIED="1695572560125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3_exercise" />
-    <SUITE FILE_PATH="coverage/muyiwa_project$range_midian.coverage" NAME="range_midian Coverage Results" MODIFIED="1695295194561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/class_task" />
-    <SUITE FILE_PATH="coverage/muyiwa_project$exercise3_8.coverage" NAME="exercise3.8 Coverage Results" MODIFIED="1695403499734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3_exercise" />
+    <SUITE FILE_PATH="coverage/muyiwa_project$miles_per_gallon.coverage" NAME="miles_per_gallon Coverage Results" MODIFIED="1695660930566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3_exercise" />
     <SUITE FILE_PATH="coverage/muyiwa_project$evenNumbers__1_.coverage" NAME="evenNumbers (1) Coverage Results" MODIFIED="1695132524307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea" />
     <SUITE FILE_PATH="coverage/muyiwa_project$exercise1.coverage" NAME="exercise1 Coverage Results" MODIFIED="1694092548221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/muyiwa_project$muyiwa__1_.coverage" NAME="muyiwa (1) Coverage Results" MODIFIED="1694709622554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/muyiwa_project$exercise4.coverage" NAME="exercise4 Coverage Results" MODIFIED="1694093195359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/muyiwa_project$multiple_arguments.coverage" NAME="multiple_arguments Coverage Results" MODIFIED="1695655897114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_task" />
     <SUITE FILE_PATH="coverage/muyiwa_project$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1694419893591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../PycharmProjects/muyiwa_project1" />
     <SUITE FILE_PATH="coverage/muyiwa_project$main.coverage" NAME="main Coverage Results" MODIFIED="1693625710771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/muyiwa_project$exercise3_3.coverage" NAME="exercise3.3 Coverage Results" MODIFIED="1695287659828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/chapter3_exercise" />
     <SUITE FILE_PATH="coverage/muyiwa_project$classhit9thsep23.coverage" NAME="classhit9thsep23 Coverage Results" MODIFIED="1694163765596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/muyiwa_project$general_revision.coverage" NAME="general_revision Coverage Results" MODIFIED="1695711795812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_task" />
     <SUITE FILE_PATH="coverage/muyiwa_project$evenNumbers.coverage" NAME="evenNumbers Coverage Results" MODIFIED="1695571593846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_task" />
   </component>
 </project>
