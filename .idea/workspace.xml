@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc27ab6c-3895-4820-a80d-15c6498d84f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter3_exercise/binary_to_decimal_conversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter3_exercise/factorials.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter3_exercise/nested_loop_triangles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter3_exercise/pythagorean_triples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter3_exercise/seperating_digit_in_an_integer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter3_exercise/shapes_trial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter3_exercise/world_population_growth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter4_exercise/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter4_exercise/play_ground.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_task/average_miimum_maximum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_task/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_task/list_in_python.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_task/playGround.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_task/playGround.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,10 +37,13 @@
     <setting file="file://$PROJECT_DIR$/chapter4_exercise/play_ground.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/class_task/divide_or_square_function.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/class_task/fizz_buzz.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/class_task/functions.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/class_task/general_revision.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/class_task/list_in_python.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/class_task/multiple_arguments.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/class_task/muyiwa.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/class_task/pallindrome.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/class_task/playGround.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/class_task/range_midian.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/class_task/shapes_trial.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/loop/WhileLoop.py" root0="SKIP_INSPECTION" />
@@ -60,21 +58,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Dell/PycharmProjects/muyiwa_project/chapter3_exercise",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dell/PycharmProjects/muyiwa_project/chapter3_exercise&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Dell\PycharmProjects\muyiwa_project\chapter3_exercise" />
@@ -91,7 +89,7 @@
       <recent name="C:\Users\Dell\PycharmProjects\muyiwa_project\venv\loop" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.binary_to_decimal_conversion">
+  <component name="RunManager" selected="Python.playGround">
     <configuration name="binary_to_decimal_conversion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="muyiwa_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -106,28 +104,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter3_exercise/binary_to_decimal_conversion.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="exercise3.7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="muyiwa_project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter3_exercise" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter3_exercise/exercise3.7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,6 +134,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="list_in_python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="muyiwa_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_task" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_task/list_in_python.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="muyiwa_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,7 +178,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pythagorean_triples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="playGround" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="muyiwa_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -188,12 +186,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter3_exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_task" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter3_exercise/pythagorean_triples.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_task/playGround.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,7 +200,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="seperating_digit_in_an_integer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="small_uber_app_assignment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="muyiwa_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -210,12 +208,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter3_exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_task" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter3_exercise/seperating_digit_in_an_integer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_task/small_uber_app_assignment.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -226,11 +224,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.playGround" />
+        <item itemvalue="Python.list_in_python" />
+        <item itemvalue="Python.small_uber_app_assignment" />
         <item itemvalue="Python.binary_to_decimal_conversion" />
         <item itemvalue="Python.factorials" />
-        <item itemvalue="Python.pythagorean_triples" />
-        <item itemvalue="Python.seperating_digit_in_an_integer" />
-        <item itemvalue="Python.exercise3.7" />
       </list>
     </recent_temporary>
   </component>
@@ -287,7 +285,9 @@
       <workItem from="1695808617934" duration="292000" />
       <workItem from="1695831404854" duration="622000" />
       <workItem from="1695932798347" duration="6285000" />
-      <workItem from="1695955495769" duration="6936000" />
+      <workItem from="1695955495769" duration="7469000" />
+      <workItem from="1695973362688" duration="9005000" />
+      <workItem from="1696041133597" duration="398000" />
     </task>
     <servers />
   </component>
@@ -309,12 +309,13 @@
     <SUITE FILE_PATH="coverage/muyiwa_project$ditto_home.coverage" NAME="ditto@home Coverage Results" MODIFIED="1694896285343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../PycharmProjects/muyiwa_project" />
     <SUITE FILE_PATH="coverage/muyiwa_project$keep_guessing_a_number.coverage" NAME="keep_guessing_a_number Coverage Results" MODIFIED="1695571946233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_task" />
     <SUITE FILE_PATH="coverage/muyiwa_project$multiple_arguments__1_.coverage" NAME="multiple_arguments (1) Coverage Results" MODIFIED="1695653861787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/things_to_note" />
+    <SUITE FILE_PATH="coverage/muyiwa_project$list_in_python.coverage" NAME="list_in_python Coverage Results" MODIFIED="1695977644311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_task" />
     <SUITE FILE_PATH="coverage/muyiwa_project$exercise3_7.coverage" NAME="exercise3.7 Coverage Results" MODIFIED="1695960930154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3_exercise" />
     <SUITE FILE_PATH="coverage/muyiwa_project$binary_to_decimal_conversion.coverage" NAME="binary_to_decimal_conversion Coverage Results" MODIFIED="1695962402991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3_exercise" />
     <SUITE FILE_PATH="coverage/muyiwa_project$divide_or_square_function.coverage" NAME="divide_or_square_function Coverage Results" MODIFIED="1695716060199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_task" />
     <SUITE FILE_PATH="coverage/muyiwa_project$asterick_app.coverage" NAME="asterick_app Coverage Results" MODIFIED="1695646709542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_task" />
     <SUITE FILE_PATH="coverage/muyiwa_project$asterick__1_.coverage" NAME="asterick (1) Coverage Results" MODIFIED="1695646765081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_task" />
-    <SUITE FILE_PATH="coverage/muyiwa_project$playGround.coverage" NAME="playGround Coverage Results" MODIFIED="1694984449884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/muyiwa_project$playGround.coverage" NAME="playGround Coverage Results" MODIFIED="1695985238389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_task" />
     <SUITE FILE_PATH="coverage/muyiwa_project$weekend_flakess.coverage" NAME="weekend_flakess Coverage Results" MODIFIED="1695637538090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_task" />
     <SUITE FILE_PATH="coverage/muyiwa_project$palindromes.coverage" NAME="palindromes Coverage Results" MODIFIED="1695959121016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3_exercise" />
     <SUITE FILE_PATH="coverage/muyiwa_project$range_midian.coverage" NAME="range_midian Coverage Results" MODIFIED="1695646931333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_task" />
@@ -339,6 +340,7 @@
     <SUITE FILE_PATH="coverage/muyiwa_project$exercise2.coverage" NAME="exercise2 Coverage Results" MODIFIED="1694108649052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/muyiwa_project$exercise5.coverage" NAME="exercise5 Coverage Results" MODIFIED="1694093355773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/muyiwa_project$Number_Square_Cube.coverage" NAME="Number_Square_Cube Coverage Results" MODIFIED="1695134256286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/muyiwa_project$small_uber_app_assignment.coverage" NAME="small_uber_app_assignment Coverage Results" MODIFIED="1695974620223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_task" />
     <SUITE FILE_PATH="coverage/muyiwa_project$approximating_the_math_constant_e.coverage" NAME="approximating_the_math_constant_e Coverage Results" MODIFIED="1695487165231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3_exercise" />
     <SUITE FILE_PATH="coverage/muyiwa_project$exercise317.coverage" NAME="exercise317 Coverage Results" MODIFIED="1695655694490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3_exercise" />
     <SUITE FILE_PATH="coverage/muyiwa_project$exercise3_6.coverage" NAME="exercise3.6 Coverage Results" MODIFIED="1695400162706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3_exercise" />
