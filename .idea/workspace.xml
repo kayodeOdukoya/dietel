@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc27ab6c-3895-4820-a80d-15c6498d84f4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cc27ab6c-3895-4820-a80d-15c6498d84f4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +40,7 @@
     <setting file="file://$PROJECT_DIR$/class_task/playGround.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/class_task/range_midian.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/class_task/shapes_trial.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/class_task/weekend_snacks.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/loop/WhileLoop.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/../../../PycharmProjects/muyiwa_project/ditto@home.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/../../../PycharmProjects/muyiwa_project1/muyiwa.py" root0="SKIP_INSPECTION" />
@@ -85,29 +84,7 @@
       <recent name="C:\Users\Dell\PycharmProjects\muyiwa_project\venv\loop" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.nokia3310">
-    <configuration name="binary_to_decimal_conversion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="muyiwa_project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter3_exercise" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter3_exercise/binary_to_decimal_conversion.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.weekend_snacks">
     <configuration name="list_in_python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="muyiwa_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -218,13 +195,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="weekend_snacks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="muyiwa_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_task" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_task/weekend_snacks.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.weekend_snacks" />
         <item itemvalue="Python.nokia3310" />
         <item itemvalue="Python.playGround" />
         <item itemvalue="Python.list_in_python" />
         <item itemvalue="Python.small_uber_app_assignment" />
-        <item itemvalue="Python.binary_to_decimal_conversion" />
       </list>
     </recent_temporary>
   </component>
@@ -286,6 +285,7 @@
       <workItem from="1696041133597" duration="398000" />
       <workItem from="1696277337136" duration="989000" />
       <workItem from="1696279563363" duration="425000" />
+      <workItem from="1696309675727" duration="390000" />
     </task>
     <servers />
   </component>
@@ -339,6 +339,7 @@
     <SUITE FILE_PATH="coverage/muyiwa_project$exercise2.coverage" NAME="exercise2 Coverage Results" MODIFIED="1694108649052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/muyiwa_project$exercise5.coverage" NAME="exercise5 Coverage Results" MODIFIED="1694093355773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/muyiwa_project$Number_Square_Cube.coverage" NAME="Number_Square_Cube Coverage Results" MODIFIED="1695134256286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/muyiwa_project$weekend_snacks.coverage" NAME="weekend_snacks Coverage Results" MODIFIED="1696309948915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_task" />
     <SUITE FILE_PATH="coverage/muyiwa_project$small_uber_app_assignment.coverage" NAME="small_uber_app_assignment Coverage Results" MODIFIED="1695974620223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_task" />
     <SUITE FILE_PATH="coverage/muyiwa_project$approximating_the_math_constant_e.coverage" NAME="approximating_the_math_constant_e Coverage Results" MODIFIED="1695487165231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3_exercise" />
     <SUITE FILE_PATH="coverage/muyiwa_project$exercise317.coverage" NAME="exercise317 Coverage Results" MODIFIED="1695655694490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3_exercise" />
