@@ -8,6 +8,7 @@
 # then use your response in your if statement 
 # and you can also wrap it in a method so u can just be calling it anywhere you need to display menu in your code
 
+
 print("List of menu functions")
 print("Press")
 print("1 -> Phone book")
