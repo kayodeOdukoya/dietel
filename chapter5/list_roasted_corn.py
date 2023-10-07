@@ -1,3 +1,4 @@
+
 numbers = [15, 20, 25, 20, 10, 5]
 
 total = sum(numbers)
@@ -11,11 +12,11 @@ print("product:", product)
 
 
 largest_number = max(numbers)
-print(largest_number)
+print("largest:", largest_number)
 
 
 smallest_number = min(numbers)
-print(smallest_number)
+print("smallest:", smallest_number)
 
 
 duplicate = set(numbers)
