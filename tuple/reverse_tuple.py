@@ -7,3 +7,5 @@ def reverse_tuple(self, tuple_to_reverse):
 
     def create_single_element_tuple(self, value):
         return (value,)
+
+# why do you make single tuple function inner function ??
