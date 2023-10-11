@@ -67,6 +67,10 @@ import random
 # def display_dice(dice):
 #    diel1, diel2 = dice
 #    print(f"player rolled {diel1} + {diel2} = {sum(dice)}")
+#
+# die_values = roll_dice()
+# display_dice(die_values)
+#
 # sum_of_dice = sum(diel2_values)
 #
 # if sum_of_dice in (7, 11):
@@ -78,9 +82,46 @@ import random
 #     my_point = sum_of_dice
 #     print("point is", my_point)
 #
-# while game_status == "Continue"
-#     die_va
+# while game_status == "Continue":
+#     die_values = roll_dice()
+#     display_dice(die_values)
+#     sum_of_dice = sum(die_values)
+#
+#     if sum_of_dice == my_point:
+#         game_status = "WON"
+#     elif sum_of_dice == 7:
+#         game_status = "LOST"
+#
+# if game_status == "WON":
+#     print("Player wins")
+# else:
+#     print("Player loses")
 
+
+#SQUARE MATH MODULE FUNCTIONS
+
+import math
+
+n = math.sqrt(900)
+print(n)
+
+n = math.fabs(-10)
+print(n)
+
+
+#---------------------------------
+def rectangle_area(length=2, width=3):
+    return length * width
+print(rectangle_area(2, 3))
+
+n = rectangle_area()
+print(n)
+
+n = rectangle_area(10)
+print(n)
+
+n = rectangle_area(10, 5)
+print(n)
 
 
 

@@ -1,9 +1,5 @@
+def reverse(number):
 
-def reverse_tuple(self, tuple_to_reverse):
-    reversed_list = []
-    for item in tuple_to_reverse:
-        reversed_list.insert(0, item)
-        return tuple(reversed_list)
+    reverse_element = tuple(reversed(number))
+    return reverse_element
 
-    def create_single_element_tuple(self, value):
-        return (value,)
