@@ -31,7 +31,6 @@ print(sorted(n))
 
 numbers = [(range(1, 11))]
 print(numbers)
-
 def even_check(n):
     ans = 0
     if n % 2 == 0:
