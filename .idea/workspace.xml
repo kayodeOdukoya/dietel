@@ -5,37 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc27ab6c-3895-4820-a80d-15c6498d84f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/accessment/Specific_value_in_a_group.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accessment/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accessment/all_even_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accessment/area_of_a_circle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accessment/base_and_heights.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accessment/concatenate_function_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accessment/current_date_and_time.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accessment/even_odd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accessment/first_and_last.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accessment/non_negative_integer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accessment/python_version.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accessment/reverse_output.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accessment/seperated_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accessment/twinkle_little_star.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accessment/vowel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter4_exercise/dice_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter5/slicig.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuple/functions_in_tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuple/tuple_playground.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_function_file.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4_exercise/play_ground.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4_exercise/play_ground.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_tuple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/things_to_note/factors_that_takes_integer.py" beforeDir="false" afterPath="$PROJECT_DIR$/things_to_note/factors_that_takes_integer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuple/reverse_tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/tuple/reverse_tuple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuple/sort_tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/tuple/sort_tuple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuple/test_reverse_tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/tuple/test_reverse_tuple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuple/test_sort_tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/tuple/test_sort_tuple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuple/test_tuple2.py" beforeDir="false" afterPath="$PROJECT_DIR$/tuple/test_tuple2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuple/test_tuple3.py" beforeDir="false" afterPath="$PROJECT_DIR$/tuple/test_tuple3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuple/tuple2.py" beforeDir="false" afterPath="$PROJECT_DIR$/tuple/tuple2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuple/tuple3.py" beforeDir="false" afterPath="$PROJECT_DIR$/tuple/tuple3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,29 +108,7 @@
       <recent name="C:\Users\Dell\PycharmProjects\muyiwa_project\venv\class_task" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.functions_in_tuple">
-    <configuration name="all_even_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="muyiwa_project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/accessment" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/accessment/all_even_numbers.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.shapes_trial">
     <configuration name="area_of_a_circle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="muyiwa_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -248,6 +197,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="shapes_trial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="muyiwa_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter3_exercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter3_exercise/shapes_trial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="tuple_playground" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="muyiwa_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -272,11 +243,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.shapes_trial" />
         <item itemvalue="Python.functions_in_tuple" />
         <item itemvalue="Python.area_of_a_circle" />
         <item itemvalue="Python.non_negative_integer" />
         <item itemvalue="Python.tuple_playground" />
-        <item itemvalue="Python.all_even_numbers" />
       </list>
     </recent_temporary>
   </component>
@@ -351,6 +322,9 @@
       <workItem from="1696915164244" duration="306000" />
       <workItem from="1696931996084" duration="11977000" />
       <workItem from="1697011793998" duration="21587000" />
+      <workItem from="1697061957990" duration="607000" />
+      <workItem from="1697191865369" duration="266000" />
+      <workItem from="1697273917136" duration="911000" />
     </task>
     <servers />
   </component>
@@ -430,7 +404,7 @@
     <SUITE FILE_PATH="coverage/muyiwa_project$nested_loop_triangles.coverage" NAME="nested_loop_triangles Coverage Results" MODIFIED="1696530750362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3_exercise" />
     <SUITE FILE_PATH="coverage/muyiwa_project$user_input_for_arguments.coverage" NAME="user_input_for_arguments Coverage Results" MODIFIED="1695655846009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_task" />
     <SUITE FILE_PATH="coverage/muyiwa_project$pythagorean_triples.coverage" NAME="pythagorean_triples Coverage Results" MODIFIED="1695961775967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3_exercise" />
-    <SUITE FILE_PATH="coverage/muyiwa_project$shapes_trial.coverage" NAME="shapes_trial Coverage Results" MODIFIED="1696530787760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3_exercise" />
+    <SUITE FILE_PATH="coverage/muyiwa_project$shapes_trial.coverage" NAME="shapes_trial Coverage Results" MODIFIED="1697274570283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3_exercise" />
     <SUITE FILE_PATH="coverage/muyiwa_project$exercise3_3.coverage" NAME="exercise3.3 Coverage Results" MODIFIED="1695957698668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3_exercise" />
     <SUITE FILE_PATH="coverage/muyiwa_project$world_population_growth.coverage" NAME="world_population_growth Coverage Results" MODIFIED="1695960292636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3_exercise" />
     <SUITE FILE_PATH="coverage/muyiwa_project$trippled_the_list.coverage" NAME="trippled_the_list Coverage Results" MODIFIED="1696593641050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5" />
